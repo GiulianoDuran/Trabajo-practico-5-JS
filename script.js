@@ -14,5 +14,4 @@ var arreglo = [15,28,32,44,59];
 
 for(i=0;i<arreglo.length;i++){
     console.log(arreglo[i]);
-    
 }
