@@ -9,3 +9,5 @@ const resta = c - a - b;
 console.log ("El valor de la suma es:",suma);
 console.log ("El valor de la multiplicacion es:",multiplicacion);
 console.log ("El valor de la resta es:",resta);
+
+var arreglo = [15,28,32,44,59];
