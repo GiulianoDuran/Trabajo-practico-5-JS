@@ -4,3 +4,4 @@ const c = 7;
 
 var suma = a + c + b;
 let multiplicacion = a * b * c; 
+const resta = c - a - b;
